@@ -12,7 +12,4 @@ Our goal is to examine the epigenetic response of animals to heat stress compare
    - [See reference for program choice:] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8524990/)
 
 
-
-
-![](zebra_finch_animation_by_nashiil_gif (536×459).gif)
-
+![zebra_finch_animation_by_nashiil_gif (536×459)](https://github.com/dys0004/FitBirds/assets/29266059/e16b149c-37ca-4e6d-96c5-026dc8a25088)
