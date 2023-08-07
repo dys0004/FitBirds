@@ -6,7 +6,8 @@ Our goal is to examine the epigenetic response of animals to heat stress compare
 ## Pipeline
  
 1. Obtain Raw Fast5 files produced from MinION
-2. Perform Modified Basecalling using either program
+2. Regular Basecalling using Guppy 
+4. Perform Modified Basecalling using either program
    - Megalodon
    - Nanopolish
    - [See reference for program choice:] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8524990/)
