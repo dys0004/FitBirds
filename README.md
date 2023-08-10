@@ -9,7 +9,7 @@ Our goal is to examine the epigenetic response of animals to heat stress compare
 2. Regular Basecalling using Guppy 
 4. Perform Modified Basecalling using either program
    - Megalodon
-   - Nanopolish
+   - Nanopolish (https://nanopolish.readthedocs.io/en/latest/quickstart_call_methylation.html)
    - [See reference for program choice:] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8524990/)
 
 
