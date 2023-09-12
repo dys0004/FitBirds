@@ -11,6 +11,7 @@ Our goal is to examine the epigenetic response of animals to heat stress compare
    - Megalodon
    - Nanopolish (https://nanopolish.readthedocs.io/en/latest/quickstart_call_methylation.html)
    - [See reference for program choice:] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8524990/)
+
   
 ## Nanopolish Pipeline
 
