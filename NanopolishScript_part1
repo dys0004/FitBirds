@@ -1,0 +1,18 @@
+#!/bin/bash
+#SBATCH --job-name=nanopolish_practice            # job name
+#SBATCH --ntasks=10                  # number of tasks across all nodes
+#SBATCH --partition=bigmem4
+#SBATCH --time=7-00:00:00              # Run time (D-HH:MM:SS)
+#SBATCH --output=job-%j.out          # Output file. %j is replaced with job ID
+#SBATCH --error=job-%j.err           # Error file. %j is replaced with job ID
+#SBATCH --mail-type=ALL              # will send email for begin,end,fail
+#SBATCH --mail-user=dys0004@auburn.edu
+
+### Load module 
+mmodule load nanopolish/0.14.1
+
+#Example code
+#nanopolish index -d /path/to/raw_fast5s/ -s sequencing_summary.txt basecalled_output.fastq # for FAST5 inout
+
+
+nnanopolish index -d /scratch/dys0004_scratch/DNA_methylation/DNA_methyla_MC/fast5_files -f /scratch/dys0004_scratch/DNA_methylation/DNA_methyla_MC/seqsummarys BC11_ALL.fastq.gz # for FAST5 inout
